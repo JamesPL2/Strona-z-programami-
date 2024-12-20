@@ -1,2 +1,3 @@
 # Strona-z-programami-
-Stworzyłem stronę bez z programami do pobrania. Odpali się bez problemu na każdej przeglądarce. Nie zezwalam na modyfikację ani udostępnianie bez podania mnie jako autora. 
+
+Strona w większości skończona. Narazie nie można pobierac kilku programów jednocześnie i mało programów jest dla windowsa 7. Działanie testowane na Windows.
